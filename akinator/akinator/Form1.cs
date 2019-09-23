@@ -18,7 +18,7 @@ using MetroFramework.Native;
 
 namespace akinator
 {
-    public partial class Form1 : MetroForm
+    public partial class Form1 : Form
     {
         public Form1()
         {

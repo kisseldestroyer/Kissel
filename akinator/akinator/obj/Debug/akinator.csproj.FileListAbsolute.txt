@@ -12,3 +12,17 @@ C:\Users\Vladimir\Desktop\Akinator\akinator\akinator\obj\Debug\akinator.csproj.C
 C:\Users\Vladimir\Desktop\Akinator\akinator\akinator\obj\Debug\akinator.csproj.CopyComplete
 C:\Users\Vladimir\Desktop\Akinator\akinator\akinator\obj\Debug\akinator.exe
 C:\Users\Vladimir\Desktop\Akinator\akinator\akinator\obj\Debug\akinator.pdb
+E:\Akinator\Akinator\akinator\akinator\bin\Debug\akinator.exe.config
+E:\Akinator\Akinator\akinator\akinator\bin\Debug\akinator.exe
+E:\Akinator\Akinator\akinator\akinator\bin\Debug\akinator.pdb
+E:\Akinator\Akinator\akinator\akinator\bin\Debug\MetroFramework.dll
+E:\Akinator\Akinator\akinator\akinator\bin\Debug\MetroFramework.Fonts.dll
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csprojAssemblyReference.cache
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.Form1.resources
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.Form2.resources
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.Properties.Resources.resources
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csproj.GenerateResource.cache
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csproj.CoreCompileInputs.cache
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csproj.CopyComplete
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.exe
+E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.pdb
