@@ -32,45 +32,63 @@
             this.metroButton1 = new MetroFramework.Controls.MetroButton();
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // metroButton1
             // 
-            this.metroButton1.Location = new System.Drawing.Point(23, 409);
+            this.metroButton1.Location = new System.Drawing.Point(31, 503);
+            this.metroButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(144, 45);
+            this.metroButton1.Size = new System.Drawing.Size(192, 55);
             this.metroButton1.Style = MetroFramework.MetroColorStyle.Green;
             this.metroButton1.TabIndex = 0;
             this.metroButton1.Text = "Yes";
+            this.metroButton1.Click += new System.EventHandler(this.MetroButton1_Click);
             // 
             // metroButton2
             // 
-            this.metroButton2.Location = new System.Drawing.Point(200, 408);
+            this.metroButton2.Location = new System.Drawing.Point(267, 502);
+            this.metroButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroButton2.Name = "metroButton2";
-            this.metroButton2.Size = new System.Drawing.Size(144, 46);
+            this.metroButton2.Size = new System.Drawing.Size(192, 57);
             this.metroButton2.Style = MetroFramework.MetroColorStyle.Green;
             this.metroButton2.TabIndex = 1;
             this.metroButton2.Text = "No";
+            this.metroButton2.Click += new System.EventHandler(this.MetroButton2_Click);
             // 
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(137, 326);
+            this.metroLabel1.Location = new System.Drawing.Point(157, 405);
+            this.metroLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(81, 19);
+            this.metroLabel1.Size = new System.Drawing.Size(178, 20);
             this.metroLabel1.TabIndex = 2;
-            this.metroLabel1.Text = "metroLabel1";
+            this.metroLabel1.Text = "Загадана тварина - хижак?";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(465, 375);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(367, 477);
+            this.ClientSize = new System.Drawing.Size(489, 587);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroButton2);
             this.Controls.Add(this.metroButton1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form2";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -81,5 +99,6 @@
         private MetroFramework.Controls.MetroButton metroButton1;
         private MetroFramework.Controls.MetroButton metroButton2;
         private MetroFramework.Controls.MetroLabel metroLabel1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
