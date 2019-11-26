@@ -27,7 +27,7 @@ namespace akinator
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-            Form2 question = new Form2() ;
+           Form2 question = new Form2() ;
             question.Show();
             
                                

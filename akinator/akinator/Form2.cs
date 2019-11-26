@@ -20,7 +20,7 @@ namespace akinator
 {
     public partial class Form2 : Form
     {
-        int i=0 ,j = 0, i2=0, i3==0, j2=0, j3=0, i4++, j4++;
+        int i = 1, j = 0, i2 = 0, i3 = 0, j2 = 0;
         public Form2()
         {
             InitializeComponent();
@@ -28,20 +28,37 @@ namespace akinator
 
         private void MetroButton1_Click(object sender, EventArgs e)
         {
-            if (i == 0) { metroLabel1.Text = "Це свійська тварина ?"; i++; } else
-            if (i == 1) { metroLabel1.Text = "Ця тварина більша за собаку ?"; i++; } else
-            if (i2 == 1) { metroLabel1.Text = " ?"; i++; } else
-            if (i == 2) { pictureBox1.Image == }
+            
+
+            
+            if (j == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/wolf.jpg"); }
+            if (j2 == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/lion.jpg"); }
+
+            
+            if (i == 3) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/horse.bmp"); }
+            if (i2 == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/rabbit.jpg"); }
+
+            if (j == 1) { metroLabel1.Text = "ця тварина полює в саванні ?"; j2 = 2; j = 5; }
+            else
+            if (i == 2) { metroLabel1.Text = "Ця тварина більша за собаку ?"; i++; }
+            else
+            if (i == 1) { metroLabel1.Text = "Це свійська тварина ?"; i++; j = 5; } else { }
         }
 
         private void MetroButton2_Click(object sender, EventArgs e)
         {
-            if (i == 0) { metroLabel1.Text = "цей хижак з роду котячих? ?"; j++; }
+            
 
+            if (j == 1) { metroLabel1.Text = "ця тварина полює в зграї ?"; j++; }else
+            if (j == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/bear.jpg"); }
+            if (j2 == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/tiger.jpg"); }
 
+            if (i == 2) { metroLabel1.Text = " у цієї тварини довгі вуха?"; i2=2; i = 5; }else
+            if (i2 == 2) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/deer.jpg"); }
+            if (i == 3) { pictureBox1.Image = Image.FromFile("D:/AKinatorProga/Kissel/akinator/chiken.jpg"); }
 
-            if (i == 1) { metroLabel1.Text = "у цьої тварини довгі вуха ?"; i2++; }
-            if (i == 2) { pictureBox1.Image == }
+            if (j == 0) { metroLabel1.Text = "цей хижак з роду котячих ?"; j++; i = 5; }
+            else { }
         }
     }
 }
