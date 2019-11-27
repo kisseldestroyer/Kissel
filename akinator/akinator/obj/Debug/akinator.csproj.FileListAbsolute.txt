@@ -26,3 +26,17 @@ E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csproj.CoreCompileInpu
 E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.csproj.CopyComplete
 E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.exe
 E:\Akinator\Akinator\akinator\akinator\obj\Debug\akinator.pdb
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.csprojAssemblyReference.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.Form1.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.Form2.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.Properties.Resources.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.csproj.GenerateResource.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.csproj.CoreCompileInputs.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.exe
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.pdb
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Debug\akinator.exe.config
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Debug\akinator.exe
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Debug\akinator.pdb
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Debug\MetroFramework.dll
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Debug\MetroFramework.Fonts.dll
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Debug\akinator.csproj.CopyComplete

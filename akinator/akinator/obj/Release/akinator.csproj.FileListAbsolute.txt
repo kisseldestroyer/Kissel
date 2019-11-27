@@ -1,0 +1,14 @@
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Release\akinator.exe.config
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Release\akinator.exe
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Release\akinator.pdb
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Release\MetroFramework.dll
+D:\AKinatorProga\Kissel\akinator\akinator\bin\Release\MetroFramework.Fonts.dll
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.csprojAssemblyReference.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.Form1.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.Form2.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.Properties.Resources.resources
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.csproj.GenerateResource.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.csproj.CoreCompileInputs.cache
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.csproj.CopyComplete
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.exe
+D:\AKinatorProga\Kissel\akinator\akinator\obj\Release\akinator.pdb

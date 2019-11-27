@@ -39,7 +39,7 @@
             // metroButton1
             // 
             this.metroButton1.Location = new System.Drawing.Point(31, 503);
-            this.metroButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.metroButton1.Margin = new System.Windows.Forms.Padding(4);
             this.metroButton1.Name = "metroButton1";
             this.metroButton1.Size = new System.Drawing.Size(192, 55);
             this.metroButton1.Style = MetroFramework.MetroColorStyle.Green;
@@ -50,7 +50,7 @@
             // metroButton2
             // 
             this.metroButton2.Location = new System.Drawing.Point(267, 502);
-            this.metroButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.metroButton2.Margin = new System.Windows.Forms.Padding(4);
             this.metroButton2.Name = "metroButton2";
             this.metroButton2.Size = new System.Drawing.Size(192, 57);
             this.metroButton2.Style = MetroFramework.MetroColorStyle.Green;
@@ -61,12 +61,12 @@
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(157, 405);
+            this.metroLabel1.Location = new System.Drawing.Point(147, 441);
             this.metroLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(178, 20);
+            this.metroLabel1.Size = new System.Drawing.Size(192, 20);
             this.metroLabel1.TabIndex = 2;
-            this.metroLabel1.Text = "Загадана тварина - хижак?";
+            this.metroLabel1.Text = "Загадана тварина травоїдна?";
             // 
             // pictureBox1
             // 
@@ -86,7 +86,7 @@
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroButton2);
             this.Controls.Add(this.metroButton1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form2";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
